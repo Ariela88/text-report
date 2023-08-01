@@ -1,0 +1,4 @@
+numero di caratteri: 2726
+numero di parole: 456
+parole più usate: nec
+caratteri più usati: e
